@@ -29,7 +29,7 @@ Manage your Canoe Polo tournament
 
 # Build and Test
 Run main.py in Visual Studio Code or on the Command Line.  
-Browse to http://loalhost:8000
+Browse to http://localhost:8000
 
 # Contribute
 Clone and make changes.
