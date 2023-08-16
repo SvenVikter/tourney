@@ -31,7 +31,7 @@ content-type: application/json
 ###
 
 # ----------------
-# Authenticaiton
+# Authentication
 # ----------------
 
 GET {{baseUrl}}/authentication HTTP/1.1
